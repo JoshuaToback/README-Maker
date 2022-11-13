@@ -165,7 +165,7 @@ const writeToFile = data => {
 
             resolve({
                 ok: true,
-                message: console.log('Good job! Navigate to the "dist" folder and check out your brand new README!')
+                message: console.log('Good job! Now go check out your brand new README!')
             })
         })
     })
