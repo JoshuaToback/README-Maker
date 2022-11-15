@@ -15,6 +15,8 @@
   Make sure you have Node installed on your PC/Mac. Then, download the repository and open Git Bash or your Terminal. After that, you're ready to go! 
   ## Usage
   After you have Git Bash open, use code . to open up the repository in VS Code. Then in the terminal, type node index.js and then you'll be on your way! 
+
+  You can watch a walkthrough of how to use the video here!
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
   ## Contributing
