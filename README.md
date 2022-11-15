@@ -16,7 +16,7 @@
   ## Usage
   After you have Git Bash open, use code . to open up the repository in VS Code. Then in the terminal, type node index.js and then you'll be on your way! 
 
-  You can watch a walkthrough of how to use the video here!
+  You can watch a walkthrough of how to use the video [here](https://www.youtube.com/watch?v=M0E4uEx-_a0)!
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
   ## Contributing
